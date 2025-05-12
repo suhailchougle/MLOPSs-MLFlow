@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516184102736309615/37efa1c42dcd4578bbbfe99384c0d320/artifacts
+end_time: 1747051039509
+entry_point_name: ''
+experiment_id: '516184102736309615'
+lifecycle_stage: active
+run_id: 37efa1c42dcd4578bbbfe99384c0d320
+run_name: delightful-sow-26
+run_uuid: 37efa1c42dcd4578bbbfe99384c0d320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747051035329
+status: 3
+tags: []
+user_id: SohailChougle

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516184102736309615/81fd6d57391842a5a68d2c1c28f735f6/artifacts
+end_time: 1747050273657
+entry_point_name: ''
+experiment_id: '516184102736309615'
+lifecycle_stage: active
+run_id: 81fd6d57391842a5a68d2c1c28f735f6
+run_name: exultant-shrimp-960
+run_uuid: 81fd6d57391842a5a68d2c1c28f735f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747050268207
+status: 3
+tags: []
+user_id: SohailChougle
